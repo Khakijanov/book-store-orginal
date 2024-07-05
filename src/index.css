@@ -8,4 +8,9 @@
     }
     
 }
-/* tuzimila */
+/* /* @layer components {
+    .myAfter {
+        @apply after:content-end after:border after:h-5 after:border-gray-400
+    }
+    
+} */
