@@ -6,4 +6,5 @@
     .container {
         @apply  max-w-[1280px] mx-auto lg:px-12 sm:px-2 px-2
     }
+    /* apple */
 }
