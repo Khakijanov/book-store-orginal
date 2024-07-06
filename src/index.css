@@ -6,6 +6,12 @@
     .container {
         @apply  max-w-[1280px] mx-auto lg:px-12 sm:px-2 px-2
     }
+    .primary{
+        @apply text-[#393280]
+    }
+    .secondary{
+        @apply text-[#ED553B]
+    }
     
 }
 /* tuzimila */
